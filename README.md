@@ -12,7 +12,6 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -28,12 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-![View](./Screenshot.png) 
+![](./Screenshot.png) 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github SOlution](https://github.com/Maysummer/Advice-Generator)
+- Live Site URL: [Live Site]( https://maysummer.github.io/Advice-Generator/)
 
 ## My process
 
